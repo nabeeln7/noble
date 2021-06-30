@@ -5,15 +5,15 @@
     "Luis Montes"
   ],
   "license": "MIT",
-  "name": "@abandonware/noble",
+  "name": "@nabeeln7/noble",
   "description": "A Node.js BLE (Bluetooth Low Energy) central library.",
-  "version": "1.9.2-14",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abandonware/noble.git"
+    "url": "https://github.com/nabeeln7/noble.git"
   },
   "bugs": {
-    "url": "https://github.com/abandonware/noble/issues"
+    "url": "https://github.com/nabeeln7/noble/issues"
   },
   "keywords": [
     "bluetooth",
